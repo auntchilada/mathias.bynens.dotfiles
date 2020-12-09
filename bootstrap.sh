@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# bdd; do not run
+exit
+
+
 cd "$(dirname "${BASH_SOURCE}")";
 
 git pull origin master;
